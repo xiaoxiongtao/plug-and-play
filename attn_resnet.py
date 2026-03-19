@@ -1,3 +1,5 @@
+# Kimi Team et al., "Attention Residuals," arXiv, 2026, https://arxiv.org/abs/2603.15031.
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
